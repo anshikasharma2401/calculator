@@ -7,10 +7,8 @@ This project performs basic arithmetic operations with a clean and professional 
 
 ## 🚀 Live Demo
 
-(Add your deployed link here if you deploy on Vercel / Netlify)
-
-Example:
-https://your-calculator-app.vercel.app/
+Live Link:
+amazing-calculator-react.netlify.app
 
 ---
 
