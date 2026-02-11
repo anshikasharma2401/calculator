@@ -7,8 +7,9 @@ This project performs basic arithmetic operations with a clean and professional 
 
 ## 🚀 Live Demo
 
-Live Link:
-amazing-calculator-react.netlify.app
+
+🔗 Live Demo: [Click Here](https://amazing-calculator-react.netlify.app)
+
 
 ---
 
