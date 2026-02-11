@@ -1,0 +1,28 @@
+.calculator {
+    border: 1px solid rgba(90, 90, 90);
+    width: 320px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #1e1e2f;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+.heading {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+:global(body) {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-family: 'Segoe UI', sans-serif;
+}
