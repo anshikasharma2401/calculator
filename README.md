@@ -47,3 +47,22 @@ https://your-calculator-app.vercel.app/
 ---
 
 ## 📂 Project Structure
+
+```
+react-calculator/
+│
+├── src/
+│   ├── components/
+│   │   ├── Display.jsx
+│   │   ├── Display.module.css
+│   │   ├── ButtonsContainer.jsx
+│   │   ├── ButtonsContainer.module.css
+│   │
+│   ├── App.jsx
+│   ├── App.module.css
+│   └── main.jsx
+│
+├── package.json
+├── README.md
+└── screenshot.png
+```
